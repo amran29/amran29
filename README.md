@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Amran Al-Gaafari</h1>
+<h3 align="center">Information Systems Graduate | Flutter & Backend Developer</h3>
 
-<!--
-**amran29/amran29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🎓 Bachelor in Information Systems – Sana'a University  
+- 💙 Passionate about **Flutter, Backend, and Web Development**
+- 🚀 Interested in **AI-powered applications**
+- 📍 Based in **Yemen**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+- **Mobile:** Flutter, Kotlin  
+- **Backend:** Node.js, Laravel  
+- **Database:** PostgreSQL, MySQL  
+- **Tools:** Git, GitHub, Firebase  
+- **Design:** Adobe XD, Photoshop  
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amran29&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amran29&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Contact Me
+- 📧 Email: **amranalgaafari@gmail.com**
+- 💼 LinkedIn: [My Profile](https://www.linkedin.com/in/amran-al-gaafari-03961b354)

@@ -1,6 +1,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7C4DFF&height=200&section=header&text=Amran%20Al-Gaafari&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
   
+  <!-- إضافة شعار AMRAN DIGITAL -->
+  <img src="https://raw.githubusercontent.com/amran29/amran29/main/amran_digital.png" alt="AMRAN DIGITAL" width="400" />
+  
   <h3 align="center">✨ Transforming Ideas into Digital Reality</h3>
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C4DFF&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+Developer;Mobile+App+Specialist;Backend+Architect;Problem+Solver;Clean+Code+Advocate" />
@@ -156,13 +159,7 @@ Modern e-commerce platform with:
   
 </div>
 
-<div align="center">
-  
-  <a href="https://github.com/amran29">
-    <img src="https://github-profile-trophy.vercel.app/?username=amran29&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
-  
-</div>
+<!-- إزالة GitHub Trophies لأن الصورة لا تظهر -->
 
 <br>
 
@@ -188,12 +185,7 @@ Modern e-commerce platform with:
   <a href="https://github.com/amran29">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://twitter.com/yourprofile">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://stackoverflow.com/users/yourid">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
-  </a>
+  <!-- تم إزالة Twitter و StackOverflow حسب الطلب -->
 </p>
 
 <div align="center">
@@ -218,7 +210,7 @@ Modern e-commerce platform with:
   </p>
   
   <p>
-    <sub>✨ Last Updated: December 2023 | Made with ❤️ and GitHub Actions</sub>
+    <sub>✨ Made with ❤️ by Amran Al-Gaafari</sub>
   </p>
   
 </div>

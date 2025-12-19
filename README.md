@@ -1,26 +1,21 @@
-<!-- بداية الهيدر والشعار -->
 <div align="center">
-
-  <!-- الشعار: تم ضبط الحجم وإزالة المسافات -->
-  <!-- ⚠️ استبدل الرابط أدناه برابط صورتك المباشر -->
-  <img src="https://raw.githubusercontent.com/amran29/amran29/main/amran_digital.png" alt="AMRAN DIGITAL" width="380" />
-
-  <br/>
-
-  <h2 align="center">✨ Transforming Ideas into Digital Reality</h2>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C4DFF&height=200&section=header&text=Amran%20Al-Gaafari&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7C4DFF&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+Developer;Mobile+App+Specialist;Backend+Architect;Problem+Solver;Clean+Code+Advocate" />
-
+  <!-- إضافة شعار AMRAN DIGITAL -->
+  <img src="https://raw.githubusercontent.com/amran29/amran29/main/amran_digital.png" alt="AMRAN DIGITAL" width="400" />
+  
+  <h3 align="center">✨ Transforming Ideas into Digital Reality</h3>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C4DFF&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+Developer;Mobile+App+Specialist;Backend+Architect;Problem+Solver;Clean+Code+Advocate" />
 </div>
 
-<br/>
+<br>
 
-<!-- قسم About Me -->
-<h3 align="center">👨‍💻 About Me</h3>
+## 👨‍💻 About Me
 
 <div align="center">
   
-  ![Yemen](https://img.shields.io/badge/📍-Yemen-00E5FF?style=for-the-badge&logo=googlemaps&logoColor=white)
+  ![Yemen](https://img.shields.io/badge/📍-Yemen-00E5FF?style=for-the-badge&logo=map&logoColor=white)
   ![Developer](https://img.shields.io/badge/💻-Full%20Stack%20Developer-7C4DFF?style=for-the-badge)
   ![Status](https://img.shields.io/badge/🚀-Open%20to%20Work-FF4ECD?style=for-the-badge)
   ![Experience](https://img.shields.io/badge/📚-2%2B%20Years%20Experience-00E5FF?style=for-the-badge)
@@ -29,137 +24,146 @@
 
 <p align="center">
   Passionate software engineer with expertise in building scalable mobile and web applications. 
-  I specialize in <b>Flutter</b> development and <b>Backend</b> systems, creating solutions that are not only 
+  I specialize in Flutter development and backend systems, creating solutions that are not only 
   functional but also maintainable and performant. Always eager to learn new technologies and 
   tackle challenging problems.
 </p>
 
-<br/>
+<br>
 
-<!-- قسم Tech Stack -->
-<h3 align="center">🛠️ Tech Stack</h3>
+## 🛠️ Tech Stack
 
+### **Frontend & Mobile**
 <div align="center">
-
-  <!-- Frontend -->
-  <h4>Frontend & Mobile</h4>
   <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio&theme=dark&perline=4" />
-  <br/><br/>
-  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-  ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-  ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+</div>
 
-  <br/>
+<div align="center">
+  
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+  ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+  ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+  
+</div>
 
-  <!-- Backend -->
-  <h4>Backend & Databases</h4>
+### **Backend & Databases**
+<div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,laravel,php,postgresql,mysql,firebase&theme=dark&perline=6" />
-  <br/><br/>
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+</div>
 
-  <br/>
+<div align="center">
+  
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+  
+</div>
 
-  <!-- Tools -->
-  <h4>Tools & Platforms</h4>
+### **Tools & Platforms**
+<div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,figma,photoshop,docker,vscode&theme=dark&perline=6" />
-  <br/><br/>
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-  ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
 </div>
 
-<br/>
-
-<!-- قسم المشاريع -->
-<h3 align="center">🚀 Featured Projects</h3>
-
-<!-- Khadamati -->
 <div align="center">
-  <h4>📱 Khadamati Platform | <a href="https://github.com/amran29/forsa">View Code</a></h4>
   
-  ![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen?style=flat-square)
-  ![Tech](https://img.shields.io/badge/Flutter%20|%20Node.js%20|%20PostgreSQL-7C4DFF?style=flat-square)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+  ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
   
-  <p><i>Multi-role service platform for the Yemeni market</i></p>
 </div>
 
-> A comprehensive service platform connecting clients with service providers, featuring:
-> Multi-role system (Client/Provider/Admin), Real-time notifications, Secure payment integration, and Scalable microservices architecture.
->
-> **Technologies:** Flutter, Node.js, PostgreSQL, Socket.io, JWT, REST API
+<br>
 
-<br/>
+## 🚀 Featured Projects
 
-<!-- Track Expense -->
-<div align="center">
-  <h4>💸 Track Expense | <a href="https://github.com/amran29/TrackExpenses">View Code</a></h4>
-  
-  ![Status](https://img.shields.io/badge/Status-Completed-00E5FF?style=flat-square)
-  ![Tech](https://img.shields.io/badge/Kotlin%20|%20Room%20Database-7F52FF?style=flat-square)
-  
-  <p><i>Minimal & intuitive expense tracking application</i></p>
-</div>
+### **📱 Khadamati Platform** | [View Code](https://github.com/amran29/khadamati)
+> Multi-role service platform for the Yemeni market
 
-> Clean and intuitive expense tracker featuring:
-> Category-based expense management, Visual spending analytics, Dark/Light theme support, and Local data persistence.
->
-> **Technologies:** Kotlin, Room Database, MPAndroidChart, Material Design
+![Project Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen?style=for-the-badge)
+![Tech Stack](https://img.shields.io/badge/Flutter%20|%20Node.js%20|%20PostgreSQL-7C4DFF?style=for-the-badge)
 
-<br/>
+A comprehensive service platform connecting clients with service providers, featuring:
+- Multi-role system (Client/Provider/Admin)
+- Real-time notifications & messaging
+- Secure payment integration
+- Advanced dashboard analytics
+- Scalable microservices architecture
+- Arabic language interface
 
-<!-- E-Commerce -->
-<div align="center">
-  <h4>🌐 E-Commerce Platform | <a href="https://github.com/amran29/ecom">View Code</a></h4>
-  
-  ![Status](https://img.shields.io/badge/Status-In%20Development-FF4ECD?style=flat-square)
-  ![Tech](https://img.shields.io/badge/Laravel%20|%20Vue.js%20|%20MySQL-FF2D20?style=flat-square)
-  
-  <p><i>Full-stack e-commerce solution</i></p>
-</div>
+**Technologies:** Flutter, Node.js, PostgreSQL, Socket.io, JWT, REST API
 
-> Modern e-commerce platform with:
-> Admin dashboard with analytics, Multiple payment gateway integration, Advanced product management, and RTL design.
->
-> **Technologies:** Laravel, Vue.js, MySQL, Redis, Tailwind CSS
+---
 
-<br/>
+### **💸 Track Expense** | [View Code](https://github.com/amran29/track-expense)
+> Minimal & intuitive expense tracking application
 
-<!-- قسم الإحصائيات - تم توحيد الألوان -->
-<h3 align="center">📊 GitHub Analytics</h3>
+![Project Status](https://img.shields.io/badge/Status-Completed-00E5FF?style=for-the-badge)
+![Tech Stack](https://img.shields.io/badge/Kotlin%20|%20Room%20Database-7F52FF?style=for-the-badge)
+
+Clean and intuitive expense tracker featuring:
+- Category-based expense management
+- Visual spending analytics & charts
+- PDF/Excel export functionality
+- Dark/Light theme support
+- Local data persistence with Room
+- Budget planning & alerts
+
+**Technologies:** Kotlin, Room Database, MPAndroidChart, Material Design
+
+---
+
+### **🌐 E-Commerce Platform** | [View Code](https://github.com/amran29/ecommerce)
+> Full-stack e-commerce solution
+
+![Project Status](https://img.shields.io/badge/Status-In%20Development-FF4ECD?style=for-the-badge)
+![Tech Stack](https://img.shields.io/badge/Laravel%20|%20Vue.js%20|%20MySQL-FF2D20?style=for-the-badge)
+
+Modern e-commerce platform with:
+- Admin dashboard with analytics
+- Multiple payment gateway integration
+- Advanced product management system
+- Customer reviews and ratings system
+- Arabic language support & RTL design
+- Order tracking & inventory management
+
+**Technologies:** Laravel, Vue.js, MySQL, Redis, Tailwind CSS
+
+<br>
+
+## 📊 GitHub Analytics
 
 <div align="center">
   
   <a href="https://github.com/amran29">
-    <!-- تم تعديل الألوان لتطابق الشعار: العنوان بنفسجي، الأيقونة سماوي -->
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=amran29&show_icons=true&theme=transparent&title_color=7C4DFF&icon_color=00E5FF&text_color=ffffff&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true" alt="Amran's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amran29&show_icons=true&theme=radical&title_color=7C4DFF&icon_color=00E5FF&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true" alt="Amran's GitHub Stats" />
   </a>
   
   <a href="https://github.com/amran29">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amran29&layout=compact&theme=transparent&title_color=7C4DFF&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=6&exclude_repo=github-readme-stats" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amran29&layout=compact&theme=radical&title_color=7C4DFF&bg_color=0d1117&hide_border=true&langs_count=6&exclude_repo=github-readme-stats" alt="Top Languages" />
   </a>
   
 </div>
 
 <div align="center">
+  
   <a href="https://github.com/amran29">
-    <img height="170em" src="https://streak-stats.demolab.com?user=amran29&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=7C4DFF&fire=FF4ECD&currStreakLabel=00E5FF&background=0d1117" alt="GitHub Streak" />
+    <img height="180em" src="https://streak-stats.demolab.com?user=amran29&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=7C4DFF&fire=FF4ECD&currStreakLabel=00E5FF" alt="GitHub Streak" />
   </a>
+  
 </div>
 
-<br/>
+<!-- إزالة GitHub Trophies لأن الصورة لا تظهر -->
 
-<!-- الرسم البياني للنشاط -->
-<h3 align="center">📈 Activity Graph</h3>
+<br>
+
+## 📈 Activity Graph
 
 <div align="center">
   
@@ -167,10 +171,9 @@
   
 </div>
 
-<br/>
+<br>
 
-<!-- قسم التواصل والفوتر -->
-<h3 align="center">🌐 Let's Connect</h3>
+## 🌐 Let's Connect
 
 <p align="center">
   <a href="mailto:amranalgaafari@gmail.com">
@@ -182,22 +185,25 @@
   <a href="https://github.com/amran29">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <!-- تم إزالة Twitter و StackOverflow حسب الطلب -->
 </p>
 
 <div align="center">
+  
   <a href="https://github.com/amran29?tab=followers">
     <img src="https://img.shields.io/github/followers/amran29?label=Follow&style=social" alt="GitHub Followers" />
   </a>
   <a href="https://github.com/amran29">
     <img src="https://komarev.com/ghpvc/?username=amran29&color=7C4DFF&style=flat-square" alt="Profile Views" />
   </a>
+  
 </div>
 
-<br/>
+---
 
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00E5FF,7C4DFF&height=100&section=footer&reversal=true" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&reversal=true" />
   
   <p>
     <i>🚀 "I don't just write code — I build digital solutions that make an impact."</i>
